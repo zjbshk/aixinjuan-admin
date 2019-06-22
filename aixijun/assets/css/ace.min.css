@@ -8986,6 +8986,7 @@ th .lbl:only-child,td .lbl:only-child
 .widget-header[class*="header-color-"]
 {
   color: #FFF;
+	background: #fd5c63;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
